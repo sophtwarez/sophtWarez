@@ -1,9 +1,9 @@
 # sophtWarez
 
-Producer of Fine Scripts, Apps, Widgets, Programs, and 
+> Producers of Fine Scripts, Apps, Widgets, Programs, and Warez
 
 
-
+## About US
 
 
 
